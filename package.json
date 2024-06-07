@@ -1,0 +1,21 @@
+{
+  "name": "na37-word-counter",
+  "version": "1.0.0",
+  "description": "A program using typescript which counts alphabets and words, got by inquirer prompt.",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "na37-word-counter": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nimra-rasheed",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.23"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
